@@ -3,3 +3,4 @@
 ||blog.logrocket.com^
 ||app.logrocket.com^
 ||logrocket.com^
+||tracking.tldrnewsletter.com^
